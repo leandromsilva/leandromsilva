@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá Pessoal 👋
+
+## Sobre mim
+Soteropolitano, 22 anos e formado em sistemas de informação pela unifacs 
+
+## 🌱 O que estou estudando
+Atualmente estou estudando desenvolvimento web e focando em javascript para ter um conhecimento mais vasto 
 
 <!--
 **leandromsilva/leandromsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
