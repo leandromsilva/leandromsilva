@@ -3,6 +3,8 @@
 ## 😄 Sobre mim
 Soteropolitano, 22 anos e formado em sistemas de informação pela unifacs 
 
+<img src="https://github-readme-stats.vercel.app/api?username=leandromsilva&include_all_commits=true&count_private=true&show_icons=true"></img>
+
 ## 🌱 O que estou estudando
 Atualmente estou estudando desenvolvimento web e focando em javascript para ter um conhecimento mais vasto 
 
