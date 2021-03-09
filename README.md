@@ -1,6 +1,6 @@
-### Olá Pessoal 👋
+# Olá Pessoal 👋
 
-## Sobre mim
+## 😄 Sobre mim
 Soteropolitano, 22 anos e formado em sistemas de informação pela unifacs 
 
 ## 🌱 O que estou estudando
