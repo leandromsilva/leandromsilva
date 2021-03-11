@@ -1,4 +1,4 @@
-# 👋🏽 Olá Pessoal
+## 👋🏽 Olá Pessoal
 
 ## 😄 Sobre mim
 Soteropolitano, 22 anos e formado em sistemas de informação pela unifacs 
@@ -7,7 +7,7 @@ Soteropolitano, 22 anos e formado em sistemas de informação pela unifacs
 <img src="https://github-readme-stats.vercel.app/api?username=leandromsilva">
 
 ## 🌱 O que estou estudando
-Atualmente estou estudando desenvolvimento web e focando em javascript para ter um conhecimento mais vasto 
+Atualmente estou estudando desenvolvimento web e focando em Desenvolviemnto WEB para ter um conhecimento mais vasto 
 
 <!--
 **leandromsilva/leandromsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
