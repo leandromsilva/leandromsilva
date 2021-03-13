@@ -1,4 +1,4 @@
-<img src="/image.jpg" min-width="400px" max-width="400px" width="400px" align="right"> 
+<img src="/image.png" min-width="400px" max-width="400px" width="400px" align="right"> 
 
 # 👋🏽 Hello everyone!!
 <p align="left">
