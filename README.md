@@ -7,8 +7,8 @@
 
 <br>
 
-### 😄 About me 
-Soteropolitano, 22 anos e formado em sistemas de informação pela unifacs 
+### 😄 About me
+I'm 22 years old and always looking for evolution in my career, so I'm always looking to study new technologies, because I really want to learn more and become a better professional.
 
 ### 📖 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=leandromsilva" alt="leandro da silva github stats">
@@ -25,4 +25,4 @@ but i am always looking for new development tools
 
 
 ### 🌱 What i'm studying
-Atualmente estou estudando desenvolvimento web e focando em Desenvolviemnto WEB para ter um conhecimento mais vasto 
+I am currently studying web development and focusing on WEB Development to have a more interesting portfolio
