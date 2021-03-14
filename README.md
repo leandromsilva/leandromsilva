@@ -31,7 +31,7 @@
 
 ### 🌱 What i'm studying
 <p align="justify">
- I am currently studying web development and focusing on WEB Development to have a more interesting portfolio
+ I am currently studying .NET development in a bootcamp named LocalizaLabs .NET Developer on Digital Innovation One
 </p>
 
 
