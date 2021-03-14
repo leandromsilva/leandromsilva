@@ -1,3 +1,5 @@
+<img src="/computer.png" min-width="400px" max-width="400px" width="400px" align="right"> 
+
 # 👋🏽 Hello everyone!!
 <p align="left">
  <a target="blank" href="https://www.linkedin.com/in/leandro-da-silva-1834801ba/" style="color:#0a66c2;">
