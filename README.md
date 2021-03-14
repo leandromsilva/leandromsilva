@@ -8,14 +8,19 @@
 <br>
 
 ### 😄 About me
-I'm 22 years old and always looking for evolution in my career, so I'm always looking to study new technologies, because I really want to learn more and become a better professional.
+<code>
+<p align="justify">
+ I'm 22 years old and always looking for evolution in my career, so I'm always looking to study new technologies, because I really want to learn more and become a better    professional.
+</p></code>
 
 ### 📖 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=leandromsilva&show_icons=true&theme=gruvbox" alt="leandro da silva github stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromsilva&layout=compact&theme=gruvbox" alt="leandro da silva top languages"> 
 
 ### 🕶 Knowledge
 I know the web front end languages in addition to flutter, 
 but i am always looking for new development tools
+
 <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -27,3 +32,6 @@ but i am always looking for new development tools
 
 ### 🌱 What i'm studying
 I am currently studying web development and focusing on WEB Development to have a more interesting portfolio
+
+
+
