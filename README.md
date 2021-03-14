@@ -1,10 +1,7 @@
 # 👋🏽 Hello everyone!!
-
- <a target="blank" href="https://www.linkedin.com/in/leandro-da-silva-1834801ba/" style="color:#0a66c2;">
-   <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
- </a>
-
-
+<a target="blank" href="https://www.linkedin.com/in/leandro-da-silva-1834801ba/" style="color:#0a66c2;">
+ <img align="left" alt="LinkdeIN"  src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
 <br>
 
 ### 😄 About me
