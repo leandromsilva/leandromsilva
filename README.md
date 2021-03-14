@@ -11,7 +11,7 @@
 I'm 22 years old and always looking for evolution in my career, so I'm always looking to study new technologies, because I really want to learn more and become a better professional.
 
 ### 📖 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=leandromsilva" alt="leandro da silva github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=leandromsilva&show_icons=true&theme=cobalt" alt="leandro da silva github stats">
 
 ### 🕶 Knowledge
 I know the web front end languages in addition to flutter, 
