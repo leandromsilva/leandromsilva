@@ -8,10 +8,9 @@
 <br>
 
 ### 😄 About me
-<code>
 <p align="justify">
  I'm 22 years old and always looking for evolution in my career, so I'm always looking to study new technologies, because I really want to learn more and become a better    professional.
-</p></code>
+</p>
 
 ### 📖 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=leandromsilva&show_icons=true&theme=gruvbox" alt="leandro da silva github stats">
