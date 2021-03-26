@@ -11,7 +11,7 @@
 
 ### 📖 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=leandromsilva&hide=stars,contribs,prs&show_icons=true" alt="leandro da silva github stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromsilva&layout=compact&theme=gruvbox" alt="leandro da silva top languages"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromsilva&layout=compact" alt="leandro da silva top languages"> 
 
 ### 🕶 Knowledge
 <p align="justify">
