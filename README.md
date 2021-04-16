@@ -29,7 +29,7 @@
 
 ### 🌱 What i'm studying
 <p align="justify">
- I am currently studying .NET development in a bootcamp named LocalizaLabs .NET Developer on Digital Innovation One
+ I am currently studying WEB development in Rocketseat
 </p>
 
 
